@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sonpham</h1>
 <h3 align="center">A frontend developer from Viet Nam</h3>
-<img src="68740007_1762851477192373_5628095101382164480_n.jpeg">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonph1812" alt="sonph1812" /></a> </p>
-
+<img src="profile.jpeg" height="300" width="300">
 - 🌱 I’m currently learning **ExpressJs, ReactJS**
 
-- 💬 Ask me about **react, express**
+- 💬 Ask me about **ReactJS, NodeJS**
 
 - 📫 How to reach me **sonkdqte@gmail.com**
 
