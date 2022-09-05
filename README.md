@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonpham</h1>
 <h3 align="center">A frontend developer from Viet Nam</h3>
-<img src="profile.jpeg" height="300" width="300">
 - 🌱 I’m currently learning **NodeJs, ReactJS**
 
 - 💬 Ask me about **ReactJS, NodeJS**
